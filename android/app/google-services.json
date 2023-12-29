@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "832971919609",
+    "project_id": "takamiya-distribution",
+    "storage_bucket": "takamiya-distribution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832971919609:android:3b2b63cd9bfb493bd1d228",
+        "android_client_info": {
+          "package_name": "com.takamia.distribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832971919609-nvqe45c03mp670umd3lvtaqebjqrktk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRKdQ0-tdbKkV7GZMvgy89EjgZqRBPKiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832971919609-nvqe45c03mp670umd3lvtaqebjqrktk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832971919609-8ad91eun964j9flju74ls6hagdoqecqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cpm.takamia.distribution"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
